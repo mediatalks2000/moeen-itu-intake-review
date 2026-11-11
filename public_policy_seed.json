@@ -1,0 +1,22 @@
+[
+  {
+    "id": "UAE-CHARTER",
+    "title": "UAE Charter for the Development and Use of Artificial Intelligence",
+    "url": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence",
+    "jurisdiction": "UAE",
+    "kind": "public ethical policy guidance",
+    "checked": "2026-11-02",
+    "summary": "Emphasizes privacy, transparency, human oversight, safety, fairness and accountability. This record summarizes guidance; it does not determine legal applicability or assistance eligibility.",
+    "section": "Data Privacy; Transparency; Human Oversight; Governance and Accountability"
+  },
+  {
+    "id": "WHO-2021",
+    "title": "WHO guidance on AI in health: six guiding principles",
+    "url": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use/",
+    "jurisdiction": "global guidance",
+    "kind": "international ethical guidance",
+    "checked": "2026-11-02",
+    "summary": "Supports human control, privacy and confidentiality, meaningful documentation, accountability, equity and safety in health-related AI. This is guidance, not an authorization to determine a person’s eligibility.",
+    "section": "Protecting human autonomy; transparency; responsibility and accountability"
+  }
+]
